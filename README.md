@@ -5,14 +5,13 @@ How execute it
 ----------------
 
 1) Docker Installation. Read more here https://docs.docker.com/
-2) Pull the RRBSsim Docker image as shown below: 
+2) Pull the RRBSsim Docker image as shown below:<br> 
        `sudo docker pull xwsun89/rrbssim:0.1.0`
        
 3) Docker image of RRBSsim that have been built in local linux server can be downloaded from:
  
   web : https://pan.baidu.com/s/1qYDPywc<br>
   Extracting passwords： jn9s <br>
-
-      Usage:
+  
       sudo docker load -i rrbssim.tar.zip
 
