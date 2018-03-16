@@ -9,7 +9,9 @@ How execute it
        `sudo docker pull xwsun89/rrbssim:0.1.0`
        
 3) Docker image of RRBSsim that have been built in local linux server can be downloaded from:
-        web : https://pan.baidu.com/s/1qYDPywc<br>
-       Extracting passwords： jn9s <br>  
+        ftp : ftp://10.49.222.28<br>
+        User: rrbssim <br>
+        Password: rrbssim <br>
+        
        `sudo docker load -i rrbssim.tar.zip`
 
