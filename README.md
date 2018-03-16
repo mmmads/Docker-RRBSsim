@@ -9,9 +9,7 @@ How execute it
        `sudo docker pull xwsun89/rrbssim:0.1.0`
        
 3) Docker image of RRBSsim that have been built in local linux server can be downloaded from:<br>
-        ftp : ftp://10.49.222.28<br>
-         `User: rrbssim`<br>
-         `Password: rrbssim`<br>
+        https://drive.google.com/uc?id=1Al7jL9Sn8FbyC3Opy9Ija-WXr4FD_w91&export=download<br>
         
        `sudo docker load -i rrbssim.tar.zip`
 
